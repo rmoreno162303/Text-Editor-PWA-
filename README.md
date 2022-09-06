@@ -7,7 +7,7 @@ Included is a text editor that runs on any browser, is responsive to screen size
 Feel free to email Roberto Moreno with any questions. rmoreno162303@gmail.com
 
 ## Link to Deployed Application
-
+https://texteditor162303.herokuapp.com/
 
 <br/>
 
